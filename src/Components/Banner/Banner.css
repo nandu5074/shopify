@@ -1,0 +1,9 @@
+.banner{
+    background-image: url('https://sslimages.shoppersstop.com/sys-master/root/hd1/h80/31571766116382/fc--static_1840x600--web---2023-12--11-new--hp-page-f.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:450px;
+    width: 100%;
+    z-index: 1;
+}
